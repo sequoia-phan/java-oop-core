@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/sequoia_phan/development/java/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3271002138.index
+505936361.index
+1438212787.index
+3001988437.index
+186279970.index
+119719598.index
+97874358.index
